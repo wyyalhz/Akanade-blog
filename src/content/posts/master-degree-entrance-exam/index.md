@@ -7,12 +7,11 @@ tags: [408]
 category: 考研
 licenseName: "Unlicensed"
 author: akanade
-sourceLink: 
 draft: false
 date: 2026-05-28
 image: "./cover.webp"
 pubDate: 2026-03-19
-permalink: 
+permalink: "11408"
 ---
 
 记录考研的一些关键节点，方便复盘和下一步规划。
