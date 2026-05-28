@@ -1,9 +1,9 @@
 ---
-title: 11408 考研记录贴
+title: 计算机 11408 考研记录贴
 published: 2026-03-19
 pinned: true
 description: 愿圣软微之光普照大地
-tags: [408]
+tags: ["408"]
 category: 考研
 licenseName: "Unlicensed"
 author: akanade
